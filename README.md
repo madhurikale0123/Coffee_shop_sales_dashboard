@@ -4,6 +4,7 @@ Project Overview - This project focuses on analyzing retail transaction data to 
 
 
 
+
 Key Performance Indicators (KPIs) Matrix -
 Total Revenue - Sum of Total Bill aggregated by store, category, or time window.
 
